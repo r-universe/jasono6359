@@ -1,11 +1,8 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/jasono6359/universe
-	shallow = true
 	branch = HEAD
 [submodule "flfishltm"]
 	path = flfishltm
 	url = https://github.com/jasonO6359/flfishltm
-	shallow = true
 	branch = main
-	registered = true
