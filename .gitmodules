@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/jasono6359/universe
+	url = https://github.com/jasono6359/jasono6359.r-universe.dev
 	branch = HEAD
 [submodule "flfishltm"]
 	path = flfishltm
